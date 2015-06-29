@@ -1,2 +1,1 @@
-var name = "savitha";
-console.log(name);
+var Foo = require('foo') => import Foo from 'foo'
